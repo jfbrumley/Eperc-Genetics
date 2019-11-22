@@ -41,7 +41,10 @@ rsconnect/
 *.Rproj
 inputs/
 outputs/
+results/
 *.R
 *.jpeg
 *.jpg
 *.png
+*.txt
+*.in
